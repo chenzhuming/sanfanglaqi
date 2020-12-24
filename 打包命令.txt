@@ -1,0 +1,2 @@
+pyinstaller -D -w  dadianclient.py
+还得把config.ini考到dist中
