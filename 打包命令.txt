@@ -1,2 +1,2 @@
-pyinstaller -D -w  dadianclient.py
+pyinstaller -D -w  adbtools.py
 还得把config.ini考到dist中
